@@ -1,0 +1,12 @@
+*.o
+*.out
+memory-user
+null
+leak
+overrun
+use_after_free
+bad_free
+vector
+.DS_Store
+core
+core.*
